@@ -1,6 +1,4 @@
 ![](hero.png)
-
-
 ## 01 Sketch
 
 
