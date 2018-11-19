@@ -19,6 +19,7 @@
 - [Khroma](http://khroma.co/)  
 - [The Noun Project](https://thenounproject.com/)  
 - [Onym](https://onym.co/)
+- [VanSchneider Colors](https://www.vanschneider.com/colors)
 
 
 
@@ -27,6 +28,8 @@
 - [Sketch Runner](https://sketchrunner.com/)  
 - [Craft](https://www.invisionapp.com/craft)  
 - [Map Generator](https://github.com/eddiesigner/sketch-map-generator)
+- [Align To](https://github.com/LucienLee/AlignTo)
+- [Content Generator](https://github.com/timuric/Content-generator-sketch-plugin)
 
 
 #### Tutorials
