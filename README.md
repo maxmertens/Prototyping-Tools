@@ -12,6 +12,8 @@
 
 
 #### Tools & Resources
+- [Sketch Libraries](https://sketchapp.com/libraries/)
+- [SketchAppsources](https://www.sketchappsources.com/) → Free Sketch Resources like UI kits, wireframes, etc.
 - [Facebook Design Resources](https://facebook.design/toolsandresources/)  → Device images, GUI libraries and Kits 
 - [Unsplash](https://unsplash.com/)  → Beautiful, free photos.
 - [Khroma](http://khroma.co/)  → AI color tool for designers.
@@ -19,6 +21,7 @@
 - [Onym](https://onym.co/) → Tools and resources for naming things.
 - [VanSchneider Colors](https://www.vanschneider.com/colors) → Unique color combinations.
 - [Laws of UX](https://lawsofux.com/) → Collection of maxims and principles for building user interfaces.
+- [Resource Cards](https://resourcecards.com/) → Collection of resources for all kind of topics.
 
 
 
