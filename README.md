@@ -12,12 +12,13 @@
 
 
 #### Tools & Resources
-- [Facebook Design Resources](https://facebook.design/toolsandresources/)  
-- [Unsplash](https://unsplash.com/)  
-- [Khroma](http://khroma.co/)  
-- [The Noun Project](https://thenounproject.com/)  
-- [Onym](https://onym.co/)
-- [VanSchneider Colors](https://www.vanschneider.com/colors)
+- [Facebook Design Resources](https://facebook.design/toolsandresources/)  → Device images, GUI libraries and Kits 
+- [Unsplash](https://unsplash.com/)  → Beautiful, free photos.
+- [Khroma](http://khroma.co/)  → AI color tool for designers.
+- [The Noun Project](https://thenounproject.com/)  → Over 1 Million royalty–free icons
+- [Onym](https://onym.co/) → Tools and resources for naming things.
+- [VanSchneider Colors](https://www.vanschneider.com/colors) → Unique color combinations.
+- [Laws of UX](https://lawsofux.com/) → Collection of maxims and principles for building user interfaces.
 
 
 
