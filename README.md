@@ -14,7 +14,8 @@
 #### Tools & Resources
 - [Sketch Libraries](https://sketchapp.com/libraries/)
 - [SketchAppsources](https://www.sketchappsources.com/) → Free Sketch Resources like UI kits, wireframes, etc.
-- [Facebook Design Resources](https://facebook.design/toolsandresources/)  → Device images, GUI libraries and Kits 
+- [Facebook Design Resources](https://facebook.design/toolsandresources/)  → Device images, GUI libraries and Kits  
+- [Invision Design Resources](https://www.invisionapp.com/inside-design/design-resources/) → UI kits, mock-ups, icons, etc.
 - [Unsplash](https://unsplash.com/)  → Beautiful, free photos.
 - [Khroma](http://khroma.co/)  → AI color tool for designers.
 - [The Noun Project](https://thenounproject.com/)  → Over 1 Million royalty–free icons
