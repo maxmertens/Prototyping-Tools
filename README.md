@@ -1,5 +1,5 @@
 ![](hero.png)
-## 01 Sketch
+## Link list
 
 
 #### Inspiration
@@ -38,6 +38,3 @@
 #### Tutorials
 - [Sketch Together](https://www.youtube.com/watch?v=cEplnCnZuDM&list=PLWlUJU11tp4fEXI8deWhBQAHDv9R23WHB)
 
-## 02 Invision
-## 03 Principle
-## 04 Framer X
