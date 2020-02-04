@@ -12,7 +12,6 @@
 
 
 #### Tools & Resources
-- [Sketch Libraries](https://sketchapp.com/libraries/)
 - [SketchAppsources](https://www.sketchappsources.com/) → Free Sketch Resources like UI kits, wireframes, etc.
 - [Facebook Design Resources](https://facebook.design/toolsandresources/)  → Device images, GUI libraries and Kits  
 - [Invision Design Resources](https://www.invisionapp.com/inside-design/design-resources/) → UI kits, mock-ups, icons, etc.
@@ -25,6 +24,9 @@
 - [Resource Cards](https://resourcecards.com/) → Collection of resources for all kind of topics.
 
 
+#### Libraries
+- [Sketch Libraries](https://sketchapp.com/libraries/)
+- [Feather Icons](https://github.com/feathericons/sketch-feather)
 
 
 #### Plug-ins
